@@ -17,10 +17,10 @@ The app is built using **React** for the frontend, providing a smooth and respon
 ### Screenshots
 
 #### Task Manager UI
-![Task Manager UI](./screenshots/screenshot1.png)
+![Task Manager UI](./assets/Screenshot1.png)
 
 #### Task Sorting and Search
-![Task Sorting and Search](./screenshots/screenshot2.png)
+![Task Sorting and Search](./assets/Screenshot2.png)
 
 ---
 
