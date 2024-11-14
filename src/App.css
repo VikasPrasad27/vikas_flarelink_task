@@ -90,7 +90,7 @@ button:hover {
 }
 
 .task {
-  display: block; /* Make sure tasks are stacked vertically */
+  display: block;
   padding: 15px;
   border-radius: 6px;
   border: 1px solid #ddd;
