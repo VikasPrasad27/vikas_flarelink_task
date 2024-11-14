@@ -37,8 +37,8 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/task-manager-app.git
-   cd task-manager-app
+   git clone https://github.com/VikasPrasad27/vikas_flarelink_task.git
+   cd vikas_flarelink_task
    npm install
    npm start
    npm run dev
